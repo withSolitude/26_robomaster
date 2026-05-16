@@ -65,11 +65,6 @@ void Vofa_Tuner_Init()
 
     Vofa_Tuner.Set_Reset_Integral_On_Tune(1);
 
-    //绑定
-    // Vofa_Tuner.Bind_PID(1000,&robot.Chassis.Track_Wheel[0].PID_Omega);
-    // Vofa_Tuner.Bind_PID(1100,&robot.Chassis.Track_Wheel[1].PID_Omega);
-    //Vofa_Tuner.Bind_PID(1000,&robot.Chassis.Track_Wheel[0].PID_Omega);
-
 }
 
 /**

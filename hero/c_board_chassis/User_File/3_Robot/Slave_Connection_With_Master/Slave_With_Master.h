@@ -111,7 +111,7 @@ protected:
 
 
     // // 电机状态
-    // Enum_Motor_DJI_Status Motor_DJI_Status = Motor_DJI_Status_DISABLE;
+
     // 电机对外接口信息
 
 

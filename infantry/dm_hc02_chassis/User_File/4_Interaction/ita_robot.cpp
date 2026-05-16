@@ -342,26 +342,16 @@ void Class_Robot::_Chassis_Control()
 
         tmp_planning_leg_angle = (Slope_Leg_Left_Angle.Get_Out()+Slope_Leg_Right_Angle.Get_Out())/2;
 
-
-
         // 底盘相对于云台角度
-        float cos_yaw,sin_yaw;
 
 
 
         // 底盘相对于云台运动方向
-        float chassis_now_vx,chassis_now_vy,chassis_now_omega;
+
 
 
         // 规划速度
-        // Slope_Speed_X.Set_Now_Real(chassis_now_vx);
-        // Slope_Speed_Y.Set_Now_Real(chassis_now_vy);
-        // //Slope_Speed_Omega.Set_Now_Real(chassis_now_omega);
-        //
-        // Slope_Speed_X.Set_Target(tmp_expect_direction_velocity_x);
-        // Slope_Speed_Y.Set_Target(tmp_expect_direction_velocity_y);
-        // Slope_Speed_X.TIM_Calculate_PeriodElapsedCallback();
-        // Slope_Speed_Y.TIM_Calculate_PeriodElapsedCallback();
+
 
         // 保存规划后结果
         tmp_planning_chassis_velocity_x = Slope_Speed_X.Get_Out();
@@ -385,10 +375,9 @@ void Class_Robot::_Chassis_Control()
         Chassis.Set_Target_Velocity_X(tmp_planning_chassis_velocity_x);
         Chassis.Set_Target_Velocity_Y(tmp_planning_chassis_velocity_y);
         Chassis.Set_Target_Omega(tmp_planning_chassis_omega);
-        //Chassis.Set_Target_Omega(tmp_expect_direction_omega);
         Chassis.Set_Track_Motor_Omega(-tmp_planning_track_wheel_omega);
         Chassis.Set_Leg_Motor_Angle(tmp_planning_leg_angle);
-        //Chassis.Set_Target_Chassis_Pitch_Angle(tmp_expect_leg_angle);
+
     }
 }
 
