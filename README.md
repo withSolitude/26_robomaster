@@ -40,10 +40,10 @@ yaw轴相应曲线
 赛季照片：
 <img width="1440" height="875" alt="微信图片_2026-05-17_022452_943" src="https://github.com/user-attachments/assets/bbcab43f-f298-43b3-a43a-d888ec70c0da" />
 <img width="1920" height="1280" alt="微信图片_20260517023127_102_1" src="https://github.com/user-attachments/assets/c3419111-6ee6-46fb-a3e5-c66ea3983b0d" />
+<img width="1440" height="1080" alt="微信图片_2026-05-17_024411_399" src="https://github.com/user-attachments/assets/c93694ad-8eb0-412f-9405-4581b331fba7" />
 <img width="1920" height="1280" alt="微信图片_20260517023128_103_1" src="https://github.com/user-attachments/assets/21af6af9-4b58-45ea-be6f-e3f1768f10d6" />
 <img width="1440" height="960" alt="微信图片_2026-05-17_022312_269" src="https://github.com/user-attachments/assets/128f24bb-b2a7-4c06-9acc-0155332ac1c8" />
 <img width="1280" height="1707" alt="微信图片_20260517022622_100_1" src="https://github.com/user-attachments/assets/6e4836d8-a657-4d4b-b91f-9ca73e950bf5" />
 <img width="1920" height="1280" alt="微信图片_20260517023126_101_1" src="https://github.com/user-attachments/assets/8cb1a9c1-e46d-4278-81de-999bcaa0ad63" />
 <img width="1440" height="1080" alt="微信图片_2026-05-17_022423_323" src="https://github.com/user-attachments/assets/1684db59-cb69-43c8-8b9e-3b27ef96fe6c" />
 <img width="1280" height="1920" alt="微信图片_2026-05-17_022335_039" src="https://github.com/user-attachments/assets/eb0448f2-638b-40a6-a5c6-4f4e6412ad9e" />
-
