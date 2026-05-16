@@ -1,0 +1,12 @@
+.idea/
+build/
+cmake-build-*/
+*.user
+*.o
+*.obj
+*.d
+*.elf
+*.bin
+*.map
+Debug/
+Release/
